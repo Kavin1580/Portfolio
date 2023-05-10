@@ -1,23 +1,4 @@
-# Build a Stunning Portfolio with React JS using Styled-Components and framer-motion for awesome Animations
-
-![GitHub stars](https://img.shields.io/github/stars/codebucks27/react-portfolio-final?style=social&logo=ApacheSpark&label=Stars&maxAge=2592000)&nbsp;&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/codebucks27/react-portfolio-final?style=social&logo=KashFlow)&nbsp;&nbsp;
-![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow&maxAge=2592000)&nbsp;&nbsp;<br />
-
-This repository contains Final code for The Portfolio Website in ReactJS. <br />
-
-For the **Demo** and **Final Code** checkout this link👇: <br />
-<a href="https://devdreaming.com/videos/build-stunning-portfolio-website-react-js-framer-motion#overview" target="_blank">Checkout this Responsive Portfolio in ReactJS</a> <br />
-
-If you want to learn how to create it please follow below tutorial👇: <br />
-https://youtu.be/jcohAIaSy2M <br />
-[![YouTube Video Views](https://img.shields.io/youtube/views/jcohAIaSy2M?style=social)](https://youtu.be/jcohAIaSy2M)<br />
-
-[⚠⚠⚠ If you want full code of this website then you can get it from here👇: <br />]::
-
-You'll get code files which contans code for responsive portfolio website with
-all the animations showed in the demo.
-Also, I have used React Lazy loading to increase loading speed.
+# My Portfolio with React JS using Styled-Components and framer-motion....
 
 I have recently updated all the required dependencies for React Portfolio Website.
 You might see some differences in implementation such as,
@@ -30,12 +11,10 @@ You might see some differences in implementation such as,
 
 ### Images of The Portfolio Website:
 
-![HOME](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Home.png)
-![Intro](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Intro.png)
-![Blog](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Blog.png)
-![Home Mobile](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Home-Mobile.png)
-![Intro Mobile](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Intro-Mobile.png)
-![Intro Blog](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Blog-Mobile.png)
+![HOME] ![Screenshot 2023-05-10 123615](https://github.com/Kavin1580/Portfolio/assets/127176075/79bbe40a-8b1f-47dd-9403-55576e086f71)
+![Intro] ![Screenshot 2023-05-10 123753](https://github.com/Kavin1580/Portfolio/assets/127176075/2c99ee03-d78e-489e-a6dc-074a11c4d47e)
+![Skills] ![Screenshot 2023-05-10 123649](https://github.com/Kavin1580/Portfolio/assets/127176075/bc8c4765-4aee-48fb-92b6-d0f79e2c9c90)
+![Education] ![Screenshot 2023-05-10 123825](https://github.com/Kavin1580/Portfolio/assets/127176075/f1beb9ad-a3e1-4b40-8dd7-6c0b75677219)
 
 ### Resources Used in This Project
 
