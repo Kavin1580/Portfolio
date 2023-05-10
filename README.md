@@ -26,11 +26,7 @@ Background Photo by <a href="https://unsplash.com/@impatrickt?utm_source=unsplas
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### Deployed my portfolio here below .....
+### Deployed my portfolio below 
 click here : https://kavin-my-portfolio.netlify.app/
 
 
