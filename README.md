@@ -11,12 +11,10 @@ You might see some differences in implementation such as,
 
 ### Images of The Portfolio Website:
 
-![HOME](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Home.png)
-![Intro](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Intro.png)
-![Blog](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Blog.png)
-![Home Mobile](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Home-Mobile.png)
-![Intro Mobile](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Intro-Mobile.png)
-![Intro Blog](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Blog-Mobile.png)
+![HOME] ![Screenshot 2023-05-10 123615](https://github.com/Kavin1580/Portfolio/assets/127176075/79bbe40a-8b1f-47dd-9403-55576e086f71)
+![Intro] ![Screenshot 2023-05-10 123753](https://github.com/Kavin1580/Portfolio/assets/127176075/2c99ee03-d78e-489e-a6dc-074a11c4d47e)
+![Skills] ![Screenshot 2023-05-10 123649](https://github.com/Kavin1580/Portfolio/assets/127176075/bc8c4765-4aee-48fb-92b6-d0f79e2c9c90)
+![Education] ![Screenshot 2023-05-10 123825](https://github.com/Kavin1580/Portfolio/assets/127176075/f1beb9ad-a3e1-4b40-8dd7-6c0b75677219)
 
 ### Resources Used in This Project
 
